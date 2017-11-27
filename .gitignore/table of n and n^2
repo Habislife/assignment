@@ -1,0 +1,15 @@
+#include <stdio.h>
+int squared;
+int main()
+
+{
+	printf("n = n squared\n");
+int i;
+
+for(i=1; i<=10;i=i+1)
+{
+squared = i*i;
+	printf("%d = %d\n",i,squared);
+}
+    return 0;
+}
