@@ -5,8 +5,8 @@ int number;
 int main()
 
 {
-	printf("the number of n th term in number/n")
-	printf("number/n")
+	printf("the number of n th term in number/n");
+	printf("number/n");
 	scanf("%d", &number);
 int i ;
 for(i=1; i<=number;i=i+1)
