@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+	int i=0 ,x;
+	for (i=1;i<=16807;i=i*7){;
+printf("%d +",i);
+}
+	return 0;
+}
